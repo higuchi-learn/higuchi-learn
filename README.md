@@ -1,6 +1,8 @@
-## higuchi-learn
+## higuchi-learn(leranの呪縛)
 ### 樋口陽輝
-[![Twitter: hig270](https://img.shields.io/twitter/follow/hig270?style=social)](https://twitter.com/あなたのTwitterアカウント)
+#### 愛知工業大学 電気学科 電子情報工学専攻 B2
+#### システム工学研究会
+[![Twitter: hig270](https://img.shields.io/twitter/follow/hig270?style=social)](https://x.com/hig270)
 
 ウェブフロント、組み込み、（バックエンド勉強中）
 
